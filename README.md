@@ -1,6 +1,6 @@
-# CFD(the finite volume method)
+# CFD(The Finite Volume Method)
 
-本專案主要為使用MATLAB 以及 Python 進行有限體積法計算，並且搭配參考書中之題目進行實作，實作其中內容包括矩陣演算法、implicit、explicit...等。
+本專案主要為使用MATLAB 以及 Python 進行有限體積法計算和模擬，並且搭配參考書中之題目進行實作，實作內容包括矩陣演算法、數值方法、二維穩態熱傳導以及implicit、explicit...等。
 
 # 目錄
 1. Week1-Power Series & analytical solution
